@@ -1,5 +1,7 @@
 # About
-Instagram allows you to add between 1 and 4 pronouns from different languages next to your name. I wanted to find out what English words you can create by combining those pronouns.
+Instagram allows you to add between 1 and 4 pronouns from different languages next to your name.
+
+I wanted to find out what English words you can create by combining those pronouns.
 
 
 # Some Interesting Results
